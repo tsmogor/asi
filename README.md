@@ -30,6 +30,6 @@ W aplikacjach na „na zaliczenie”:
 
 * Every Dog has one Blog.
   [Must Have Gems for Development Machine in Ruby on Rails](http://www.codebeerstartups.com/2013/04/must-have-gems-for-development-machine-in-ruby-on-rails)
-* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
+* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide):
   - [rubocop](https://github.com/bbatsov/rubocop) – a Ruby static code analyzer,
-    based on the community Ruby style guide.
+    based on the community Ruby style guide
