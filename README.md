@@ -7,8 +7,8 @@
 
 Terminy rozliczenia się z projektów:
 
-* na zaliczenie – **02.04.2015** (opóźnienie +1 dzień = ocena -1, +7 dni = ocena -2)
-* na egzamin    – **22.05.2015** (zasady jw.)
+* na zaliczenie – **ISODate("2015-04-02T12:00:00.000Z")** (opóźnienie do 48h = ocena -1, więcej = ocena -2)
+* na egzamin    – **ISODate("2015-05-22T12:00:00.000Z")** (zasady jw.)
 
 Aplikacje tworzymy w repozytoriach Git.
 Każda aplikacja powinna korzystać z aktualnej wersji Ruby
