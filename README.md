@@ -1,9 +1,8 @@
+## Architektura Serwisów Internetowych 14/15
+
 > *Uważaj na człowieka, którego nie interesują szczegóły.*
 >
 > — William Feather
-
-
-## Architektura Serwisów Internetowych 14/15
 
 Terminy rozliczenia się z projektów:
 
@@ -13,13 +12,13 @@ Terminy rozliczenia się z projektów:
   opóźnienie do 48h – ocena -1, więcej – egzamin poprawkowy
   we wrześniu
 
-Aplikacje tworzymy w repozytoriach Git.
+Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
+Projekt na egzamin umieszczamy w repozytorium prywatnym.
+W repozytoriach nie powinno być śmieci, np. plików backup edytora.
+
 Każda aplikacja powinna korzystać z aktualnej wersji Ruby
 oraz Ruby on Rails (na dzień 04.02.2015 są to 2.2.0 i 4.2.0, odpowiednio)
 oraz aktualnych wersji gemów.
-
-W repozytoriach nie powinno być śmieci, np. plików backup edytora.
-Aplikacje na egzamin umieszczamy w repozytoriach prywatnych.
 
 W aplikacjach na „na zaliczenie”:
 
