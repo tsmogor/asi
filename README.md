@@ -10,7 +10,7 @@ Terminy rozliczenia się z projektów:
   nierozliczenie się z projektu w terminie powoduje obniżenie oceny
 * ***egzamin***: **ISODate("2015-05-22T12:00:00.000Z")**<br>
   nierozliczenie się z projektu w terminie to ocena ndst
-  z egzaminu; na egzamin poprawkowy zostaną wyznaczone nowe projekty.
+  z egzaminu; na egzamin poprawkowy zostaną wyznaczone nowe projekty
 
 Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
 Projekt na egzamin umieszczamy w repozytorium prywatnym.
