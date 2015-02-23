@@ -10,10 +10,10 @@ Terminy rozliczenia się z projektów:
   nierozliczenie się z projektu w terminie powoduje obniżenie oceny
 * ***egzamin***: **ISODate("2015-05-22T12:00:00.000Z")**<br>
   nierozliczenie się z projektu w terminie to ocena ndst
-  z egzaminu; na egzamin poprawkowy zostaną wyznaczone nowe projekty
+  z egzaminu; na egzamin poprawkowy we wrześniu zostaną wyznaczone nowe projekty
 
 Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
-Projekt na egzamin umieszczamy w repozytorium prywatnym.
+Projekt na egzamin umieszczamy w repozytorium **prywatnym**.
 W repozytoriach nie powinno być śmieci, np. plików backup edytora.
 
 Każda aplikacja powinna korzystać z aktualnej wersji Ruby
@@ -30,6 +30,8 @@ W aplikacjach na „na zaliczenie”:
 
 ## Użyteczne linki
 
+* [Atom](https://atom.io/) - a hackable text editor for the 21st Century
+  - [dokumentacja](https://atom.io/docs/latest/)
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide):
   - [rubocop](https://github.com/bbatsov/rubocop) – a Ruby static code analyzer,
     based on the community Ruby style guide
