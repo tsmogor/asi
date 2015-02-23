@@ -16,9 +16,9 @@ Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
 Projekt na egzamin umieszczamy w repozytorium **prywatnym**.
 W repozytoriach nie powinno być śmieci, np. plików backup edytora.
 
-Każda aplikacja powinna korzystać z aktualnej wersji Ruby
-oraz Ruby on Rails (na dzień 04.02.2015 są to 2.2.0 i 4.2.0, odpowiednio)
-oraz aktualnych wersji gemów.
+Każda aplikacja powinna korzystać z aktualnej wersji Ruby oraz Ruby on
+Rails (na dzień 04.02.2015 są to 2.2.0 i 4.2.0, odpowiednio) oraz
+aktualnych wersji gemów.
 
 W aplikacjach na „na zaliczenie”:
 
@@ -32,6 +32,8 @@ W aplikacjach na „na zaliczenie”:
 
 * [Atom](https://atom.io/) - a hackable text editor for the 21st Century
   - [dokumentacja](https://atom.io/docs/latest/)
+  - my themes and packages: *monokai*, *seti-syntax*, ***atomic-emacs***, *language-r*, *r-exec*
+  - keybindings: `ctrl+,` `ctrl+\` `ctrl+r` `shift+ctrl+m`
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide):
   - [rubocop](https://github.com/bbatsov/rubocop) – a Ruby static code analyzer,
     based on the community Ruby style guide
