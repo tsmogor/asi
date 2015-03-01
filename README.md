@@ -33,7 +33,8 @@ W aplikacjach na „na zaliczenie”:
 * [Atom](https://atom.io/) - a hackable text editor for the 21st Century
   - [dokumentacja](https://atom.io/docs/latest/)
   - my themes and packages: *monokai*, *seti-syntax*, ***atomic-emacs***, *language-r*, *r-exec*
-  - keybindings: `ctrl+,` `ctrl+\` `ctrl+r` `shift+ctrl+m`
+  - keybindings: `ctrl+,` `ctrl+\` `ctrl+r` `shift+ctrl+m`;
+  splitting screen:  `ctrl + k` then `↑|←`
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide):
   - [rubocop](https://github.com/bbatsov/rubocop) – a Ruby static code analyzer,
     based on the community Ruby style guide
