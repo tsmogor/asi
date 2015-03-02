@@ -27,6 +27,9 @@ W aplikacjach na „na zaliczenie”:
 * do bazy danych należy dodać sporo sensownych przykładowych rekordów;
   w tym celu należy użyć pliku *db/seeds.rb*
 
+Pull requests z linkami do projektów na zaliczenie należy wpisać
+do pliku [laboratorium.md](laboratorium.md).
+
 
 ## Użyteczne linki
 
