@@ -7,7 +7,13 @@ Najpierw proszę przeczytać artykuł [Using pull requests](https://help.github.
 ----
 
 Wzorując się na przykładzie aplikacji *MyGists* z wykładów przygotować swoją aplikację.
-Aplikacja powinna responsywna i kompletna (wyszukiwanie, paginacja, logowanie).
+
+Aplikacje na „na zaliczenie” powinny być kompletne, co oznacza, że:
+
+* strony aplikacji muszą być responsywne
+* musi być zaimplementowane wyszukiwanie i paginacja
+* do bazy danych należy dodać sporo sensownych przykładowych rekordów
+  (w tym celu należy użyć pliku *db/seeds.rb*)
 
 Aby uzyskać responsywność aplikacji należy skorzystać z jednego z frameworków:
 [Bootstrap](http://getbootstrap.com/) + gem

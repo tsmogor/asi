@@ -20,13 +20,6 @@ Każda aplikacja powinna korzystać z aktualnej wersji Ruby oraz Ruby on
 Rails (na dzień 04.02.2015 są to 2.2.0 i 4.2.0, odpowiednio) oraz
 aktualnych wersji gemów.
 
-W aplikacjach na „na zaliczenie”:
-
-* strony aplikacji powinny być responsywne
-* powinno być zaimplementowane wyszukiwanie i paginacja
-* do bazy danych należy dodać sporo sensownych przykładowych rekordów;
-  w tym celu należy użyć pliku *db/seeds.rb*
-
 Pull requests z linkami do projektów na zaliczenie należy wpisać
 w pliku [laboratoria.md](laboratoria.md).
 
