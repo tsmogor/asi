@@ -14,6 +14,7 @@ Aplikacje na „na zaliczenie” powinny być kompletne, co oznacza, że:
 * musi być zaimplementowane wyszukiwanie i paginacja
 * do bazy danych należy dodać sporo sensownych przykładowych rekordów
   (w tym celu należy użyć pliku *db/seeds.rb*)
+* ???
 
 Aby uzyskać responsywność aplikacji należy skorzystać z jednego z frameworków:
 [Bootstrap](http://getbootstrap.com/) + gem
