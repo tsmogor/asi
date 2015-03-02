@@ -28,7 +28,7 @@ W aplikacjach na „na zaliczenie”:
   w tym celu należy użyć pliku *db/seeds.rb*
 
 Pull requests z linkami do projektów na zaliczenie należy wpisać
-do pliku [laboratoria.md](laboratoria.md).
+w pliku [laboratoria.md](laboratoria.md).
 
 
 ## Użyteczne linki
