@@ -11,7 +11,7 @@ Wzorując się na przykładzie aplikacji *MyGists* z wykładów przygotować sw
 Aplikacje na „na zaliczenie” powinny być kompletne, co oznacza, że:
 
 * strony aplikacji muszą być responsywne
-* musi być zaimplementowane wyszukiwanie i paginacja
+* musi być zaimplementowane wyszukiwanie, paginacja i logowanie
 * do bazy danych należy dodać sporo sensownych przykładowych rekordów
   (w tym celu należy użyć pliku *db/seeds.rb*)
 * ???
@@ -32,6 +32,13 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 
 
 ## Egzamin
+
+Aplikacje na „na egzamin” powinny być kompletne, co oznacza, że:
+
+* strony aplikacji muszą być responsywne
+* do bazy danych należy dodać sporo sensownych przykładowych rekordów
+  (w tym celu należy użyć pliku *db/seeds.rb*)
+* ???
 
 Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 
