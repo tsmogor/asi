@@ -8,9 +8,14 @@ Najpierw proszę przeczytać artykuł
 Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 
 ```console
-1. [Nazwisko Imię](link do strony na GitHub). [Notacje](link do repo z kodem).
+1. [Nazwisko Imię](link do aplikacji na Heroku). [Nazwa aplikacji](link do repo z kodem).
 ```
+
 
 ## Egzamin
 
-- [ ] przygotować instrukcje JTZ
+Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
+
+```console
+1. [Nazwa zespołu](link do PRYWATNEGO repo z kodem). [Nazwa aplikacji](link do aplikacji na Heroku).
+```
