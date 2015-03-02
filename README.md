@@ -12,11 +12,11 @@ Terminy rozliczenia się z projektów:
   nierozliczenie się z projektu w terminie to ocena ndst
   z egzaminu; na egzamin poprawkowy we wrześniu zostaną wyznaczone nowe projekty
 
-Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
-Projekt na egzamin umieszczamy w repozytorium **prywatnym**.
+Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
+Projekt na egzamin umieszczamy w repozytorium **prywatnym**.
 W repozytoriach nie powinno być śmieci, np. plików backup edytora.
 
-Każda aplikacja powinna korzystać z aktualnej wersji Ruby oraz Ruby on
+Każda aplikacja powinna korzystać z aktualnej wersji Ruby oraz Ruby on
 Rails (na dzień 04.02.2015 są to 2.2.0 i 4.2.0, odpowiednio) oraz
 aktualnych wersji gemów.
 
