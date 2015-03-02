@@ -6,9 +6,9 @@ Najpierw proszę przeczytać artykuł [Using pull requests](https://help.github.
 
 ----
 
-Należy przygotować dwa projekty:
+Wzorując się na przykładzie aplikacji *MyGists* z wykładów przygotować swoją aplikację.
+Aplikacja powinna responsywna i kompletna (wyszukiwanie, paginacja, logowanie).
 
-1. Dopisać kod do aplikacji *MyGists* z wykładów (responsywność, wyszukiwanie, paginacja).
 Aby uzyskać responsywność aplikacji należy skorzystać z jednego z frameworków:
 [Bootstrap](http://getbootstrap.com/) + gem
 [bootstrap-sass](https://github.com/twbs/bootstrap-sass))
@@ -16,15 +16,11 @@ albo
 [Foundation](http://foundation.zurb.com/) + gem
 [foundation-rails](https://github.com/zurb/foundation-rails)).
 
-----
-
 Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego schematu:
 
 ```console
-1. [Nazwisko Imię](link do aplikacji na Heroku). [MyGists](link do repo z kodem).
+1. [Nazwisko Imię](link do aplikacji na Heroku). [Nazwa aplikacji](link do repo z kodem).
 ```
-
-Projekt \#1:
 
 
 
