@@ -18,8 +18,8 @@ Aplikacje na „na zaliczenie” powinny być kompletne, co oznacza, że:
 
 Aby uzyskać responsywność aplikacji należy skorzystać z jednego z frameworków:
 [Bootstrap](http://getbootstrap.com/) + gem
-[bootstrap-sass](https://github.com/twbs/bootstrap-sass))
-albo
+[bootstrap-sass](https://github.com/twbs/bootstrap-sass)
+lub
 [Foundation](http://foundation.zurb.com/) + gem
 [foundation-rails](https://github.com/zurb/foundation-rails)).
 
