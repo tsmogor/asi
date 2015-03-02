@@ -21,7 +21,7 @@ Aby uzyskać responsywność aplikacji należy skorzystać z jednego z framewo
 [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
 lub
 [Foundation](http://foundation.zurb.com/) + gem
-[foundation-rails](https://github.com/zurb/foundation-rails)).
+[foundation-rails](https://github.com/zurb/foundation-rails).
 
 Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego schematu:
 
