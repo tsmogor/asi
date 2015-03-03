@@ -28,47 +28,54 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 ```console
 1. [Numer indeksu](link do aplikacji na Heroku). [Nazwa aplikacji](link do repo z kodem).
 ```
-
-1. Daniel, Banasiak	215482
-1. Krzysztof, Bannach 215564
-1. Aldona, Biewska 224605
-1. Michał, Bowżyk 215569
-1. Damian, Centek 215578
+<!--
 1. Sebastian, Czarnecki	215491
-1. Tomasz, Czerwiński 215506
-1. Bogusław, Człapiński	215522
-1. Rafał, Dyrda	215534
-1. Marek, Grabowski	215545
-1. Daniel, Grzesiak	215560
-1. Łukasz, Jadanowski 215565
-1. Maciej, Jendryczka 206264
-1. Łukasz, Jercha 215571
-1. Piotr, Kacprowicz 215543
-1. Krystian, Kisielewski 215515
-1. Daniel, Koprowski 215572
-1. Kospat Pawłowska,Natalia 215580
-1. Kamil, Krampa 215567
-1. Piotr, Krzyżanowski 215586
-1. Milena, Ładosz 215489
-1. Marcin, Mackiewicz 215505
 1. Przemysław, Mroczek 215537
 1. Radosław, Niemczyk 206326
-1. Radosław, Pluskota 215540
-1. Łukasz, Rosiak 206268
-1. Marcin, Rzepniewski 215574
-1. Bartosz, Skórka 215532
-1. Tomasz, Smogór 215568
-1. Mateusz, Soliwodzki 215499
-1. Borys, Stefański	206320
-1. Marek, Strzała 215563
-1. Dawid, Student 215546
-1. Piotr, Szpak	206235
-1. Beata, Turczuk 215525
-1. Jędrzej, Warzocha 215502
-1. Adam, Willma	215500
-1. Przemysław, Wyszyński 206275
-1. Kamil, Zieliński	215521
-1. Adrian, Żabierek	215536
+-->
+
+1. Adamaszek, Patryk
+1. Banasiak, Daniel
+1. Bannach, Krzysztof
+1. Biewska, Aldona
+1. Bowżyk, Michał
+1. Centek, Damian
+1. Czerwiński, Tomasz
+1. Człapiński, Bogusław
+1. Dyrda, Rafał
+1. Grabowski, Marek
+1. Grzesiak, Daniel
+1. Hołasz, Adam
+1. Jadanowski, Łukasz
+1. Jendryczka, Maciej
+1. Jercha, Łukasz
+1. Kacprowicz, Piotr
+1. Kisielewski, Krystian
+1. Koprowski, Daniel
+1. Kospat Pawłowska, Natalia
+1. Krampa, Kamil
+1. Krzyżanowski, Piotr
+1. Ładosz, Milena
+1. Mackiewicz, Marcin
+1. Mielnikowski, Łukasz
+1. Pietrzyk, Michał
+1. Rosiak, Łukasz
+1. Rzepniewski, Marcin
+1. Skórka, Bartosz
+1. Smogór, Tomasz
+1. Soliwodzki, Mateusz
+1. Stefański, Borys
+1. Strzała, Marek
+1. Student, Dawid
+1. Szpak, Piotr
+1. Turczuk, Beata
+1. Warzocha, Jędrzej
+1. Willma, Adam
+1. Wyszyński, Przemysław
+1. Zbiekowski, Maciej
+1. Zieliński, Kamil
+1. Żabierek, Adrian
+1. Żelazek, Mateusz
 
 
 ## Egzamin
