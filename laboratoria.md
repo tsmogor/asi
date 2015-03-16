@@ -2,7 +2,8 @@
 
 ----
 
-Najpierw proszę przeczytać artykuł [Using pull requests](https://help.github.com/articles/using-pull-requests/).
+Najpierw proszę przeczytać artykuł [Using pull requests](https://help.github.com/articles/using-pull-requests/)
+i „Chapter 6. Github” z książki [Pro Git](http://git-scm.com/book/en/v2).
 
 ----
 
@@ -33,46 +34,49 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Przemysław, Mroczek
 -->
 
-1. Adamaszek, Patryk
-1. Banasiak, Daniel
-1. Bannach, Krzysztof
-1. Biewska, Aldona
-1. Bowżyk, Michał
-1. Centek, Damian
-1. Czerwiński, Tomasz
-1. Człapiński, Bogusław
-1. Dyrda, Rafał
-1. Grabowski, Marek
-1. Grzesiak, Daniel
-1. Hałasa, Adam
-1. Jadanowski, Łukasz
-1. Jendryczka, Maciej
-1. Jercha, Łukasz
-1. Kacprowicz, Piotr
-1. Kisielewski, Krystian
-1. Koprowski, Daniel
-1. Kospat Pawłowska, Natalia
-1. Krampa, Kamil
-1. Krzyżanowski, Piotr
-1. Ładosz, Milena
-1. Mackiewicz, Marcin
-1. Rosiak, Łukasz
-1. Rzepniewski, Marcin
-1. Skórka, Bartosz
-1. Smogór, Tomasz
-1. Soliwodzki, Mateusz
-1. Stefański, Borys
-1. Strzała, Marek
-1. Student, Dawid
-1. Szpak, Piotr
-1. Turczuk, Beata
-1. Warzocha, Jędrzej
-1. Willma, Adam
-1. Wyszyński, Przemysław
-1. Zbierowski, Maciej
-1. Zieliński, Kamil
-1. Żabierek, Adrian
-1. Żelazek, Mateusz
+1. Adamaszek Patryk
+1. Banasiak Daniel
+1. Bannach Krzysztof
+1. Biewska Aldona
+1. Bowżyk Michał
+1. Centek Damian
+1. Czerwiński Tomasz
+1. Człapiński Bogusław
+1. Dyrda Rafał
+1. Grabowski Marek
+1. Grzesiak Daniel
+1. Hałasa Adam
+1. Jadanowski Łukasz
+1. Jendryczka Maciej
+1. Jercha Łukasz
+1. Kacprowicz Piotr
+1. Kisielewski Krystian
+1. Koprowski Daniel
+1. Kospat Pawłowska Natalia
+1. Krampa Kamil
+1. Krzyżanowski Piotr
+1. Ładosz Milena
+1. Mackiewicz Marcin
+1. Pluskota Radosław
+1. Rosiak Łukasz
+1. Rzepniewski Marcin
+1. Sielachowicz Paweł
+1. Skórka Bartosz
+1. Smogór Tomasz
+1. Soliwodzki Mateusz
+1. Stefański Borys
+1. Strzała Marek
+1. Student Dawid
+1. Szpak Piotr
+1. Turczuk Beata
+1. Warzocha Jędrzej
+1. Willma Adam
+1. Wyszyński Przemysław
+1. Zbierowski Maciej
+1. Zieliński Kamil
+1. Żabierek Adrian
+1. Żelazek Mateusz
+
 
 
 ## Egzamin
