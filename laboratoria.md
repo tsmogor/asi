@@ -30,8 +30,8 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Numer indeksu](link do aplikacji na Heroku). [Nazwa aplikacji](link do repo z kodem).
 ```
 <!--
-1. Sebastian, Czarnecki
-1. Przemysław, Mroczek
+1. Czarnecki, Sebastian
+1. Mroczek, Przemysław
 -->
 
 1. Adamaszek Patryk
