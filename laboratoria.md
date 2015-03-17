@@ -29,10 +29,6 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 ```console
 1. [Numer indeksu](link do aplikacji na Heroku). [Nazwa aplikacji](link do repo z kodem).
 ```
-<!--
-1. Czarnecki, Sebastian
-1. Mroczek, Przemysław
--->
 
 1. Adamaszek Patryk
 1. Banasiak Daniel
@@ -40,12 +36,14 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Biewska Aldona
 1. Bowżyk Michał
 1. Centek Damian
+1. Czarnecki, Sebastian
 1. Czerwiński Tomasz
 1. Człapiński Bogusław
 1. Dyrda Rafał
 1. Grabowski Marek
 1. Grzesiak Daniel
 1. Hałasa Adam
+1. Hołasz, Adam
 1. Jadanowski Łukasz
 1. Jendryczka Maciej
 1. Jercha Łukasz
@@ -57,7 +55,9 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Krzyżanowski Piotr
 1. Ładosz Milena
 1. Mackiewicz Marcin
-1. Pluskota Radosław
+1. Mielnikowski, Łukasz
+1. Mroczek, Przemysław
+1. Pietrzyk, Michał
 1. Rosiak Łukasz
 1. Rzepniewski Marcin
 1. Sielachowicz Paweł
