@@ -6,7 +6,7 @@
 
 Terminy rozliczenia się z projektów:
 
-* ***zaliczenie***: **ISODate("2015-04-02T12:00:00.000Z")**<br>
+* ***zaliczenie***: **ISODate("2015-04-09T12:00:00.000Z")**<br>
   nierozliczenie się z projektu w terminie powoduje obniżenie oceny
 * ***egzamin***: **ISODate("2015-05-22T12:00:00.000Z")**<br>
   nierozliczenie się z projektu w terminie to ocena ndst
