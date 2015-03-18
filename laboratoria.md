@@ -68,6 +68,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Stefański Borys
 1. Strzała Marek
 1. Student Dawid
+1. Szpaderski Marcin
 1. Szpak Piotr
 1. Turczuk Beata
 1. Warzocha Jędrzej
