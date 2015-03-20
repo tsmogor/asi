@@ -17,7 +17,7 @@ Projekt na egzamin umieszczamy w repozytorium **prywatnym**.
 W repozytoriach nie powinno być śmieci, np. plików backup edytora.
 
 Każda aplikacja powinna korzystać z aktualnej wersji Ruby oraz Ruby on
-Rails (na dzień 04.02.2015 są to 2.2.0 i 4.2.0, odpowiednio) oraz
+Rails (na dzień 18.03.2015 są to 2.2.0 i 4.2.1, odpowiednio) oraz
 aktualnych wersji gemów.
 
 Pull requests z linkami do projektów na zaliczenie należy wpisać

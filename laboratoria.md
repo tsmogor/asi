@@ -7,7 +7,8 @@ i „Chapter 6. Github” z książki [Pro Git](http://git-scm.com/book/en/v2
 
 ----
 
-Wzorując się na przykładzie aplikacji *MyGists* z wykładów przygotować swoją aplikację.
+Wzorując się na przykładzie aplikacji *MyGists* z wykładów
+przygotować aplikację według własnego pomysłu.
 
 Aplikacje na „na zaliczenie” powinny być kompletne, co oznacza, że:
 
