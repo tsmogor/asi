@@ -45,7 +45,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Grzesiak Daniel
 1. Hałasa Adam
 1. Hołasz Adam
-1. Jadanowski Łukasz
+1. Jadanowski Łukasz [215565](https://murmuring-reef-4822.herokuapp.com). [my-app](https://github.com/ljadanowski/Architekura-serwis-w-internetowych).
 1. Jendryczka Maciej
 1. Jercha Łukasz
 1. Kacprowicz Piotr
