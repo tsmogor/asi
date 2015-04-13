@@ -48,7 +48,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Jadanowski Łukasz [215565](https://murmuring-reef-4822.herokuapp.com). [my-app](https://github.com/ljadanowski/Architekura-serwis-w-internetowych).
 1. Jendryczka Maciej
 1. Jercha Łukasz
-1. Kacprowicz Piotr
+1. Kacprowicz Piotr [215543](https://asi-pkacprowicz.herokuapp.com/).eLook(https://github.com/Undauted/architektura_serwisow_internetowych)
 1. Kisielewski Krystian
 1. Koprowski Daniel
 1. Kospat Pawłowska Natalia
