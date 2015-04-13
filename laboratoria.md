@@ -58,7 +58,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Mackiewicz Marcin
 1. Mielnikowski Łukasz
 1. Mroczek Przemysław
-1. Niemczyk Radosław
+1. Niemczyk Radosław [206326](https://walletor.herokuapp.com/). [walletor](https://github.com/Nemeczek/Asi).
 1. Pietrzyk Michał
 1. Rosiak Łukasz
 1. Rzepniewski Marcin
