@@ -75,12 +75,10 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Warzocha Jędrzej
 1. Willma Adam
 1. Wyszyński Przemysław
-1. Zbierowski Maciej
+1. Zbierowski Maciej [206310](https://recipiesmaciej.herokuapp.com/). [recipiesmaciej](https://bitbucket.org/MaciejZbierowski/recipies)
 1. Zieliński Kamil
 1. Żabierek Adrian
 1. Żelazek Mateusz
-
-
 
 ## Egzamin
 
