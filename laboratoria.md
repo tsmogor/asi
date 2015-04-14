@@ -51,7 +51,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Soliwodzki Mateusz. [RateGame](https://bitbucket.org/adelanteDev/railsonruby_asi/src).
 1. [Strzała Marek](https://asi215563.herokuapp.com/). [Crower](https://github.com/MarekAG/asi215563).
 1. [Szpak Piotr](https://sleepy-meadow-7480.herokuapp.com/). [Sample](https://bitbucket.org/piotrszpak/sample_app/src).
-1. Turczuk Beata.
+1. [Turczuk Beata](https://fathomless-dusk-9010.herokuapp.com). [rubyonrails-project](https://github.com/bturczuk/rubyonrails-project)
 1. [Wyszyński Przemysław](musicstorepw.herokuapp.com). [MusicStore](https://github.com/pwyszynski/RailsMusicStore).
 1. [Zbierowski Maciej](https://recipiesmaciej.herokuapp.com/). [Recipies Maciej](https://bitbucket.org/MaciejZbierowski/recipies).
 1. [Zieliński Kamil](https://asi-rails-i.herokuapp.com/). [Service Dashboard](https://bitbucket.org/Ziela/asi_i_dashboard/src/master/).
