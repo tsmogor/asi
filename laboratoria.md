@@ -73,7 +73,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Krzyżanowski Piotr
 1. Ładosz Milena
 1. Pietrzyk Michał
-1. Rzepniewski Marcin
+1. Rzepniewski Marcin(http://ror-application-graphics.herokuapp.com/). [GraphicsShare](https://bitbucket.org/mrzepniewski/asigraphics).
 1. Sielachowicz Paweł
 1. Skórka Bartosz
 1. Stefański Borys
