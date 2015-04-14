@@ -39,7 +39,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Jercha Łukasz](https://cookierecipe.herokuapp.com). [my-app](https://github.com/ljercha/rails).
 1. [Kacprowicz Piotr](https://asi-pkacprowicz.herokuapp.com/). [eLook](https://github.com/Undauted/architektura_serwisow_internetowych).
 1. [Kisielewski Krystian](https://my-blog-on-rails.herokuapp.com/). [Rails Blog](https://bitbucket.org/kkug/rails_blog).
-1. Koprowski Daniel.
+1. [Koprowski Daniel] (https://evening-stream-3082.herokuapp.com/) [CompanyDashboard] (https://bitbucket.org/KOP3R/companydashboard).
 1. [Kospat-Pawłowska Natalia](https://dry-coast-8535.herokuapp.com/). [MovieShare](https://github.com/nkopa/MovieShare_projArch).
 1. [Krampa Kamil](https://salty-brook-9086.herokuapp.com/). [asi-projekt](https://github.com/kkrampa/asi-projekt).
 1. [Mackiewicz Marcin](https://glacial-falls-8952.herokuapp.com/). [Serwis blogerski](https://github.com/MaranX/ArchSerwInterZaliczenie).
