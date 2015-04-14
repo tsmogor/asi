@@ -64,7 +64,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Rzepniewski Marcin
 1. Sielachowicz Paweł
 1. Skórka Bartosz
-1. Smogór Tomasz
+1. Smogór Tomasz [215568](https://http://ror-apka-blog.herokuapp.com/). [blog](https://bitbucket.org/tsmogor/blogror).
 1. Soliwodzki Mateusz
 1. Stefański Borys
 1. Strzała Marek
