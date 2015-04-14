@@ -55,7 +55,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Wyszyński Przemysław](musicstorepw.herokuapp.com). [MusicStore](https://github.com/pwyszynski/RailsMusicStore).
 1. [Zbierowski Maciej](https://recipiesmaciej.herokuapp.com/). [Recipies Maciej](https://bitbucket.org/MaciejZbierowski/recipies).
 1. [Zieliński Kamil](https://asi-rails-i.herokuapp.com/). [Service Dashboard](https://bitbucket.org/Ziela/asi_i_dashboard/src/master/).
-
+1. [Żabierek Adrian](https://damp-waters-1973.herokuapp.com/welcome/index).[filmCrud](https://bitbucket.org/Azabierek/asi).
 
 ### Po terminie
 
@@ -81,7 +81,6 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Szpaderski Marcin
 1. Warzocha Jędrzej
 1. Willma Adam
-1. Żabierek Adrian
 1. Żelazek Mateusz
 
 
