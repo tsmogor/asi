@@ -55,7 +55,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Krampa Kamil
 1. Krzyżanowski Piotr
 1. Ładosz Milena
-1. Mackiewicz Marcin
+1. Mackiewicz Marcin [215505](https://glacial-falls-8952.herokuapp.com/). [Serwis blogerski](https://github.com/MaranX/ArchSerwInterZaliczenie).
 1. Mielnikowski Łukasz
 1. Mroczek Przemysław
 1. Niemczyk Radosław
