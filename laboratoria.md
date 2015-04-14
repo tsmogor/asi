@@ -42,7 +42,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Człapiński Bogusław
 1. Dyrda Rafał
 1. Grabowski Marek
-1. Grzesiak Daniel
+1. Grzesiak Daniel [215560](https://glacial-woodland-9780.herokuapp.com/). [new_app](https://github.com/dgrzesiak/Ruby_on_rails).
 1. Hałasa Adam
 1. Hołasz Adam
 1. Jadanowski Łukasz [215565](https://murmuring-reef-4822.herokuapp.com). [my-app](https://github.com/ljadanowski/Architekura-serwis-w-internetowych).
