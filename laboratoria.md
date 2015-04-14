@@ -36,7 +36,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Bannach Krzysztof
 1. Biewska Aldona
 1. Bowżyk Michał
-1. Centek Damian
+1. Centek Damian [215578](https://calm-tundra-1918.herokuapp.com/). [DaMCoNN](https://github.com/DragonDC/DaMCoNN.git).
 1. Czarnecki, Sebastian
 1. Czerwiński Tomasz
 1. Człapiński Bogusław
