@@ -48,7 +48,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Mroczek Przemysław](https://blogpmroczek.herokuapp.com/). [BlogPMroczek](https://github.com/pmroczek/RubyOnRails).
 1. [Niemczyk Radosław](https://walletor.herokuapp.com/). [Walletor](https://github.com/Nemeczek/Asi).
 1. Rosiak Łukasz.
-1. [Smogór Tomasz](https://http://ror-apka-blog.herokuapp.com/). [Blog](https://bitbucket.org/tsmogor/blogror).
+1. [Smogór Tomasz](https://http://ror-apka-blog.herokuapp.com/). [Blog](https://bitbucket.org/tsmogor/rorblogapp).
 1. Soliwodzki Mateusz. [RateGame](https://bitbucket.org/adelanteDev/railsonruby_asi/src).
 1. [Strzała Marek](https://asi215563.herokuapp.com/). [Crower](https://github.com/MarekAG/asi215563).
 1. [Szpak Piotr](https://sleepy-meadow-7480.herokuapp.com/). [Sample](https://bitbucket.org/piotrszpak/sample_app/src).
