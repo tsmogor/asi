@@ -67,7 +67,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Smogór Tomasz [215568](https://http://ror-apka-blog.herokuapp.com/). [blog](https://bitbucket.org/tsmogor/blogror).
 1. Soliwodzki Mateusz
 1. Stefański Borys
-1. Strzała Marek
+1. Strzała Marek [215563](https://asi215563.herokuapp.com/). [Crower](https://github.com/MarekAG/asi215563)
 1. Student Dawid
 1. Szpaderski Marcin
 1. Szpak Piotr [206235](https://sleepy-meadow-7480.herokuapp.com/)sample(https://bitbucket.org/piotrszpak/sample_app/src)
