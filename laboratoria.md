@@ -76,7 +76,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Ładosz Milena
 1. Pietrzyk Michał
 1. Sielachowicz Paweł
-1. Skórka Bartosz
+1. [Skórka Bartosz](https://sleepy-crag-4339.herokuapp.com). [Car Control](https://github.com/bskorka/my_project)
 1. Stefański Borys
 1. Student Dawid
 1. Szpaderski Marcin
