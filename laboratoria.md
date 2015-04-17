@@ -25,15 +25,16 @@ lub
 [Foundation](http://foundation.zurb.com/) + gem
 [foundation-rails](https://github.com/zurb/foundation-rails).
 
+<!--
 Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego schematu:
 
 ```console
 1. [Nazwisko Imię](link do aplikacji na Heroku). [Nazwa aplikacji](link do repo z kodem).
 ```
+-->
 
 1. [Adamaszek Patryk](http://whispering-everglades-9148.herokuapp.com/). [CarRental](https://github.com/padamaszek/ASI)
 1. [Biewska Aldona](https://moviemy.herokuapp.com/). [Movie Reviews](https://github.com/abie115/movie_reviews).
-1. Bowżyk Michał.
 1. [Centek Damian](https://calm-tundra-1918.herokuapp.com/). [DaMCoNN](https://github.com/DragonDC/DaMCoNN.git).
 1. [Grzesiak Daniel](https://glacial-woodland-9780.herokuapp.com/). [new_app](https://github.com/dgrzesiak/Ruby_on_rails).
 1. [Jadanowski Łukasz](https://murmuring-reef-4822.herokuapp.com). [my-app](https://github.com/ljadanowski/Architekura-serwis-w-internetowych).
@@ -47,8 +48,8 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Mielnikowski Łukasz](https://my-asiprojekt.herokuapp.com). [miel-proj](https://github.com/Whetold/ASI).
 1. [Mroczek Przemysław](https://blogpmroczek.herokuapp.com/). [BlogPMroczek](https://github.com/pmroczek/RubyOnRails).
 1. [Niemczyk Radosław](https://walletor.herokuapp.com/). [Walletor](https://github.com/Nemeczek/Asi).
-1. Rosiak Łukasz.
 1. [Rzepniewski Marcin](https://graphics-ror-application.herokuapp.com/). [GraphicsShare](https://bitbucket.org/mrzepniewski/graphicsror/).
+1. [Skórka Bartosz](https://sleepy-crag-4339.herokuapp.com). [Car Control](https://github.com/bskorka/my_project)
 1. [Smogór Tomasz](https://ror-apka-blog.herokuapp.com/). [Blog](https://bitbucket.org/tsmogor/rorblogapp).
 1. [Soliwodzki Mateusz](https://lit-crag-2911.herokuapp.com/). [RateGame](https://bitbucket.org/adelanteDev/railsonruby_asi/src).
 1. [Strzała Marek](https://asi215563.herokuapp.com/). [Crower](https://github.com/MarekAG/asi215563).
@@ -60,10 +61,12 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Zieliński Kamil](https://asi-rails-i.herokuapp.com/). [Service Dashboard](https://bitbucket.org/Ziela/asi_i_dashboard/src/master/).
 1. [Żabierek Adrian](https://damp-waters-1973.herokuapp.com/welcome/index).[filmCrud](https://bitbucket.org/Azabierek/asi).
 
+
 ### Po terminie
 
 1. Banasiak Daniel
 1. Bannach Krzysztof
+1. Bowżyk Michał.
 1. Czarnecki, Sebastian
 1. Czerwiński Tomasz
 1. Człapiński Bogusław
@@ -75,8 +78,8 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Krzyżanowski Piotr
 1. Ładosz Milena
 1. Pietrzyk Michał
+1. Rosiak Łukasz.
 1. Sielachowicz Paweł
-1. [Skórka Bartosz](https://sleepy-crag-4339.herokuapp.com). [Car Control](https://github.com/bskorka/my_project)
 1. Stefański Borys
 1. Student Dawid
 1. Szpaderski Marcin
