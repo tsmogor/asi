@@ -83,7 +83,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Stefański Borys
 1. Student Dawid
 1. Szpaderski Marcin
-1. Warzocha Jędrzej
+1. [Warzocha Jędrzej](https://fathomless-beyond-2847.herokuapp.com/). [miniBlog](https://bitbucket.org/jwarzocha/miniblog/src).
 1. Żelazek Mateusz
 
 
