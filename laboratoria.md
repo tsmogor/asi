@@ -43,7 +43,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Kisielewski Krystian](https://my-blog-on-rails.herokuapp.com/). [Rails Blog](https://bitbucket.org/kkug/rails_blog).
 1. [Koprowski Daniel](https://evening-stream-3082.herokuapp.com/). [CompanyDashboard](https://bitbucket.org/KOP3R/companydashboard). sww
 1. [Kospat-Pawłowska Natalia](https://dry-coast-8535.herokuapp.com/). [MovieShare](https://github.com/nkopa/MovieShare_projArch).
-1. [Krampa Kamil](https://salty-brook-9086.herokuapp.com/). [asi-projekt](https://github.com/kkrampa/asi-projekt). zob. 10; doc
+1. [Krampa Kamil](https://salty-brook-9086.herokuapp.com/). [prosty-crm](https://github.com/kkrampa/prosty-crm). zob. 10; doc
 1. [Mackiewicz Marcin](https://glacial-falls-8952.herokuapp.com/). [Serwis blogerski](https://github.com/MaranX/ArchSerwInterZaliczenie).
 1. [Mielnikowski Łukasz](https://my-asiprojekt.herokuapp.com). [miel-proj](https://github.com/Whetold/ASI).
 1. [Mroczek Przemysław](https://blogpmroczek.herokuapp.com/). [BlogPMroczek](https://github.com/pmroczek/RubyOnRails).
