@@ -36,7 +36,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Adamaszek Patryk](http://whispering-everglades-9148.herokuapp.com/). [CarRental](https://github.com/padamaszek/ASI). sww (something went wrong)
 1. [Biewska Aldona](https://moviemy.herokuapp.com/). [Movie Reviews](https://github.com/abie115/movie_reviews).
 1. [Centek Damian](https://calm-tundra-1918.herokuapp.com/). [DaMCoNN](https://github.com/DragonDC/DaMCoNN.git).
-1. [Grzesiak Daniel](https://glacial-woodland-9780.herokuapp.com/). [new_app](https://github.com/dgrzesiak/Ruby_on_rails). sww
+1. [Grzesiak Daniel](https://polski-blog.herokuapp.com/). [Polski blog](https://github.com/dgrzesiak/Ruby_on_rails/). sww
 1. [Jadanowski Łukasz](https://murmuring-reef-4822.herokuapp.com). [my-app](https://github.com/ljadanowski/Architekura-serwis-w-internetowych).
 1. [Jercha Łukasz](https://cookierecipe.herokuapp.com). [my-app](https://github.com/ljercha/rails).
 1. [Kacprowicz Piotr](https://asi-pkacprowicz.herokuapp.com/). [eLook](https://github.com/Undauted/architektura_serwisow_internetowych).
