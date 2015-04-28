@@ -78,7 +78,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Krzyżanowski Piotr
 1. Ładosz Milena
 1. Pietrzyk Michał
-1. Rosiak Łukasz.
+1. [Rosiak Łukasz](https://asi-aplikacja.herokuapp.com/).[asi-aplikacja](https://bitbucket.org/Lrosiak/asi-ruby-application)
 1. Sielachowicz Paweł
 1. Stefański Borys
 1. Student Dawid
