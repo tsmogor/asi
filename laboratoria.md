@@ -70,7 +70,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Czarnecki, Sebastian
 1. Czerwiński Tomasz
 1. Człapiński Bogusław
-1. Dyrda Rafał
+1. [Dyrda Rafał] (https://obscure-ocean-9014.herokuapp.com/) [universeapp] (https://github.com/rdyrda/universeapp)
 1. Grabowski Marek
 1. Hałasa Adam
 1. Hołasz Adam
