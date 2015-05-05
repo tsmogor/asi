@@ -96,7 +96,9 @@ Aplikacje na „na egzamin” powinny:
 * Baza danych aplikacji powinna zawierać dużo sensownych danych.
 * Zamiast swoich danych lepiej jest użyć jakiś danych dostępnych
   w internecie, np. jakiś danych z tej listy
-  [Good APIs for mashups](https://gist.github.com/afeld/4952991).  
+  [Good APIs for mashups](https://gist.github.com/afeld/4952991). 
+* Aplikacja powinna zawierać co najmniej dwa modele
+  (nie licząc modelu *User* i innych modeli wymaganych przez użyte w aplikacji gemy).
 
 Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 
