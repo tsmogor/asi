@@ -105,3 +105,5 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ```console
 1. [Nazwa zespołu](link do PRYWATNEGO repo z kodem). [Nazwa aplikacji](link do aplikacji na Heroku).
 ```
+
+1. Łukasz Jadanowski (https://bitbucket.org/ljadanowski/codeval/src/9a7f5bcf4433?at=master). [Codeval](http://codeval.pl/).
