@@ -48,7 +48,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Mielnikowski Łukasz](https://my-asiprojekt.herokuapp.com). [miel-proj](https://github.com/Whetold/ASI).
 1. [Mroczek Przemysław](https://blogpmroczek.herokuapp.com/). [BlogPMroczek](https://github.com/pmroczek/RubyOnRails).
 1. [Niemczyk Radosław](https://walletor.herokuapp.com/). [Walletor](https://github.com/Nemeczek/Asi).
-1. [Rzepniewski Marcin](https://graphics-ror-application.herokuapp.com/). [GraphicsShare](https://bitbucket.org/mrzepniewski/graphicsror/). You do not have access to this repository.
+1. [Rzepniewski Marcin](https://graphics-ror-application.herokuapp.com/). [GraphicsShare](https://bitbucket.org/mrzepniewski/graphicsror/).
 1. [Skórka Bartosz](https://sleepy-crag-4339.herokuapp.com). [Car Control](https://github.com/bskorka/my_project)
 1. [Smogór Tomasz](https://ror-apka-blog.herokuapp.com/). [Blog](https://bitbucket.org/tsmogor/rorblogapp).
 1. [Soliwodzki Mateusz](https://lit-crag-2911.herokuapp.com/). [RateGame](https://bitbucket.org/adelanteDev/railsonruby_asi/src).
