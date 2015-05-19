@@ -18,12 +18,16 @@ Aplikacje na „na zaliczenie” powinny być kompletne, co oznacza, że:
   (w tym celu należy użyć pliku *db/seeds.rb*)
 * ???
 
-Aby uzyskać responsywność aplikacji należy skorzystać z jednego z frameworków:
+Aplikacja powinna korzystać z jednego z frameworków front-end.
+Na przykład:
 [Bootstrap](http://getbootstrap.com/) + gem
 [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
 lub
 [Foundation](http://foundation.zurb.com/) + gem
-[foundation-rails](https://github.com/zurb/foundation-rails).
+[foundation-rails](https://github.com/zurb/foundation-rails)
+lub
+[Materialize](http://materializecss.com/) + gem
+[materialize-sass](https://github.com/mkhairi/materialize-sass).
 
 <!--
 Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego schematu:
