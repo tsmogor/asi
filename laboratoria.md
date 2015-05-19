@@ -111,7 +111,9 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ```
 
 1. [Codeval](https://bitbucket.org/ljadanowski/codeval/src/9a7f5bcf4433?at=master). [Codeval](http://codeval.pl/).
-2. [RecipeTeam](https://bitbucket.org/MaciejZbierowski/examapp)[RecipesSite](https://exam-app-recipies-maciej.herokuapp.com)
-3. [NoName](https://bitbucket.org/kkug/rails_blog). [Blog on Rails](https://my-blog-on-rails.herokuapp.com/)
-4. [SiekieraUG](https://bitbucket.org/AdamWillma/asi-siekiera-ug). [MyFavouritesBooks](https://arcane-hollows-8419.herokuapp.com)
-5. [Mackiewicz](https://github.com/MaranX/ArchSerwInterEgzamin). [Serwis Blogerski](https://protected-hamlet-1750.herokuapp.com/).
+1. [RecipeTeam](https://bitbucket.org/MaciejZbierowski/examapp)[RecipesSite](https://exam-app-recipies-maciej.herokuapp.com)
+1. [NoName](https://bitbucket.org/kkug/rails_blog). [Blog on Rails](https://my-blog-on-rails.herokuapp.com/)
+1. [SiekieraUG](https://bitbucket.org/AdamWillma/asi-siekiera-ug). [MyFavouritesBooks](https://arcane-hollows-8419.herokuapp.com)
+1. [Mackiewicz](https://github.com/MaranX/ArchSerwInterEgzamin). [Serwis Blogerski](https://protected-hamlet-1750.herokuapp.com/).
+1 . [CookieTeam](https://github.com/ljercha/rails). [CookingRecipes](https://nameless-citadel-7345.herokuapp.com/).
+
