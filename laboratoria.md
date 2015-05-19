@@ -110,3 +110,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 2. [RecipeTeam](https://bitbucket.org/MaciejZbierowski/examapp)[RecipesSite](https://exam-app-recipies-maciej.herokuapp.com)
 3. [NoName](https://bitbucket.org/kkug/rails_blog). [Blog on Rails](https://my-blog-on-rails.herokuapp.com/)
 4. [SiekieraUG](https://bitbucket.org/AdamWillma/asi-siekiera-ug). [MyFavouritesBooks](https://arcane-hollows-8419.herokuapp.com)
+5. [Mackiewicz](https://github.com/MaranX/ArchSerwInterEgzamin). [Serwis Blogerski](https://protected-hamlet-1750.herokuapp.com/).
