@@ -70,7 +70,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 
 1. Banasiak Daniel
 1. Bannach Krzysztof
-1. Bowżyk Michał.
+1. [Bowżyk Michał](https://bitbucket.org/PotworZlyBardzo/rails-app). [serwis internetowy](http://pacific-ravine-8786.herokuapp.com/)
 1. [Czarnecki Sebastian](https://github.com/sebcza/shake-and-eat). [Shake and eat](http://sebczait.cloudapp.net:3000).
 1. Czerwiński Tomasz
 1. Człapiński Bogusław
