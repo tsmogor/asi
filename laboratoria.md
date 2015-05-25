@@ -117,4 +117,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Mackiewicz](https://github.com/MaranX/ArchSerwInterEgzamin). [Serwis Blogerski](https://protected-hamlet-1750.herokuapp.com/).
 1. [CookieTeam](https://github.com/ljercha/rails). [CookingRecipes](https://nameless-citadel-7345.herokuapp.com/).
 1. [RailsAngular](https://github.com/laikkk/IDamage). [IDamage](https://railsangular.herokuapp.com/).
+1. [HBudget_ASP.net](https://github.com/Nemeczek/Home-Budget). [Home Budget](http://budgethome.azurewebsites.net/Home).
+1. [Vienas](https://github.com/abie115/movie_reviews_v2.0). [Movie Reviews](https://reviewmovie.herokuapp.com/).
+
 
