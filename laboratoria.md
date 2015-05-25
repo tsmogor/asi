@@ -116,4 +116,5 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [SiekieraUG](https://bitbucket.org/AdamWillma/asi-siekiera-ug). [MyFavouritesBooks](https://arcane-hollows-8419.herokuapp.com)
 1. [Mackiewicz](https://github.com/MaranX/ArchSerwInterEgzamin). [Serwis Blogerski](https://protected-hamlet-1750.herokuapp.com/).
 1. [CookieTeam](https://github.com/ljercha/rails). [CookingRecipes](https://nameless-citadel-7345.herokuapp.com/).
+1. [RailsAngular](https://github.com/laikkk/IDamage). [IDamage](https://railsangular.herokuapp.com/).
 
