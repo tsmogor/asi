@@ -84,7 +84,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Pietrzyk Michał
 1. [Rosiak Łukasz](https://asi-aplikacja.herokuapp.com/). [asi-aplikacja](https://bitbucket.org/Lrosiak/asi-ruby-application)
 1. Sielachowicz Paweł
-1. Stefański Borys
+1. [Stefański Borys](https://cryptic-river-3851.herokuapp.com/). [rubyApp](https://github.com/boriasz/ruby)
 1. Student Dawid
 1. Szpaderski Marcin
 1. [Warzocha Jędrzej](https://fathomless-beyond-2847.herokuapp.com/). [miniBlog](https://bitbucket.org/jwarzocha/miniblog/src).
