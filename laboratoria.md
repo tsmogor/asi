@@ -120,5 +120,5 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [HBudget_ASP.net](https://github.com/Nemeczek/Home-Budget). [Home Budget](http://budgethome.azurewebsites.net/Home).
 1. [Vienas](https://github.com/abie115/movie_reviews_v2.0). [Movie Reviews](https://reviewmovie.herokuapp.com/).
 1. [ShakeAndTeam](https://github.com/sebcza/shake-and-eat). [Shake and eat](http://sebczait.cloudapp.net:3000).
-1. [BonaFide](https://github.com/kkrampa/asi-egzamin). [Kontakt](https://salty-brook-9086.herokuapp.com).
+1. [BonaFide](https://github.com/kkrampa/asi-egzamin). [Kontakt](https://salty-brook-9086.herokuapp.com). GitHub. Page not found.
 1. [CarManagement](https://github.com/bskorka/my_project). [Car Control](https://sleepy-crag-4339.herokuapp.com/).
