@@ -100,7 +100,7 @@ Aplikacje na „na egzamin” powinny:
 * Baza danych aplikacji powinna zawierać dużo sensownych danych.
 * Zamiast swoich danych lepiej jest użyć jakiś danych dostępnych
   w internecie, np. jakiś danych z tej listy
-  [Good APIs for mashups](https://gist.github.com/afeld/4952991). 
+  [Good APIs for mashups](https://gist.github.com/afeld/4952991).
 * Aplikacja powinna zawierać co najmniej dwa modele
   (nie licząc modelu *User* i innych modeli wymaganych przez użyte w aplikacji gemy).
 
@@ -112,13 +112,13 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 
 1. [Codeval](https://bitbucket.org/ljadanowski/codeval/src/9a7f5bcf4433?at=master). [Codeval](http://codeval.pl/).
 1. [RecipeTeam](https://bitbucket.org/MaciejZbierowski/examapp)[RecipesSite](https://exam-app-recipies-maciej.herokuapp.com)
-1. [NoName](https://bitbucket.org/kkug/rails_blog). [Blog on Rails](https://my-blog-on-rails.herokuapp.com/)
-1. [SiekieraUG](https://bitbucket.org/AdamWillma/asi-siekiera-ug). [MyFavouritesBooks](https://arcane-hollows-8419.herokuapp.com)
+1. [NoName](https://bitbucket.org/kkug/rails_blog). [Blog on Rails](https://my-blog-on-rails.herokuapp.com/).
+1. [SiekieraUG](https://bitbucket.org/AdamWillma/asi-siekiera-ug). [MyFavouritesBooks](https://arcane-hollows-8419.herokuapp.com).
 1. [Mackiewicz](https://github.com/MaranX/ArchSerwInterEgzamin). [Serwis Blogerski](https://protected-hamlet-1750.herokuapp.com/).
 1. [CookieTeam](https://github.com/ljercha/rails). [CookingRecipes](https://nameless-citadel-7345.herokuapp.com/).
 1. [RailsAngular](https://github.com/laikkk/IDamage). [IDamage](https://railsangular.herokuapp.com/).
 1. [HBudget_ASP.net](https://github.com/Nemeczek/Home-Budget). [Home Budget](http://budgethome.azurewebsites.net/Home).
 1. [Vienas](https://github.com/abie115/movie_reviews_v2.0). [Movie Reviews](https://reviewmovie.herokuapp.com/).
 1. [ShakeAndTeam](https://github.com/sebcza/shake-and-eat). [Shake and eat](http://sebczait.cloudapp.net:3000).
-
-
+1. [BonaFide](https://github.com/kkrampa/asi-egzamin). [Kontakt](https://salty-brook-9086.herokuapp.com).
+1. [CarManagement](https://github.com/bskorka/my_project). [Car Control](https://sleepy-crag-4339.herokuapp.com/).
