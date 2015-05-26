@@ -119,5 +119,6 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [RailsAngular](https://github.com/laikkk/IDamage). [IDamage](https://railsangular.herokuapp.com/).
 1. [HBudget_ASP.net](https://github.com/Nemeczek/Home-Budget). [Home Budget](http://budgethome.azurewebsites.net/Home).
 1. [Vienas](https://github.com/abie115/movie_reviews_v2.0). [Movie Reviews](https://reviewmovie.herokuapp.com/).
+1. [ShakeAndTeam](https://github.com/sebcza/shake-and-eat). [Shake and eat](http://sebczait.cloudapp.net:3000).
 
 
